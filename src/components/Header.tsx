@@ -13,7 +13,7 @@ interface HeaderProps {
 export default function Header({ searchQuery, onSearchChange }: HeaderProps) {
   const totalItems = useCartStore((state) => state.getTotalItems());
 
-  // Prevent hydration mismatch for cart count
+  // Prevent hydration mismatch for cart count 
   const [mounted, setMounted] = useState(false);
   useEffect(() => {
     setMounted(true);
