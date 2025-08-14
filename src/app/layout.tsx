@@ -12,8 +12,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'WhatBytes - Your One-Stop Shop',
     description: 'Discover amazing products at great prices.',
-    type: 'website',    
-    images: [
+    type: 'website',
+    images: [ 
       {
         url: '/og-image.png', // optional SEO image
         width: 1200,
