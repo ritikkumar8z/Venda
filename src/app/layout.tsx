@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'WhatBytes Team' }], 
   openGraph: {
     title: 'WhatBytes - Your One-Stop Shop',
-    description: 'Discover amazing products at great prices.',
+    description: 'Discover amazing products at great prices.', 
     type: 'website',
     images: [ 
       {
