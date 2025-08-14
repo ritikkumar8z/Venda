@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'WhatBytes - Your One-Stop Shop',
   description: 'Discover amazing products at great prices. Shop electronics, clothing, shoes, and books.',
-  keywords: 'ecommerce, shopping, electronics, clothing, shoes, books',  
+  keywords: 'ecommerce, shopping, electronics, clothing, shoes, books',
   authors: [{ name: 'WhatBytes Team' }],
   openGraph: { 
     title: 'WhatBytes - Your One-Stop Shop', 
