@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   keywords: 'ecommerce, shopping, electronics, clothing, shoes, books', 
   authors: [{ name: 'WhatBytes Team' }],
   openGraph: {
-    title: 'WhatBytes - Your One-Stop Shop',
+    title: 'WhatBytes - Your One-Stop Shop', 
     description: 'Discover amazing products at great prices.',
     type: 'website',
     images: [
