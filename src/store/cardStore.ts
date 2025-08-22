@@ -12,7 +12,7 @@ export const useCartStore = create<CartStore>()(
           const existingItem = state.items.find((item) => item.id === product.id);
           if (existingItem) {
             return {
-              items: state.items.map((item) =>
+              items: state.items.map((item) => 
                 item.id === product.id
                   ? { ...item, quantity: item.quantity + 1 }
                   : item
