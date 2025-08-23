@@ -11,7 +11,7 @@ export const mockProducts: Product[] = [
     rating: {
       rate: 4.8,
       count: 120
-    }
+    } 
   },
   {
     id: 2,
