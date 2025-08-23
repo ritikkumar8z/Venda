@@ -13,7 +13,7 @@ export const mockProducts: Product[] = [
       count: 120 
     } 
   },
-  {
+  { 
     id: 2,
     title: "iPhone 15 Pro",
     price: 999,
