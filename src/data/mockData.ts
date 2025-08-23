@@ -10,7 +10,7 @@ export const mockProducts: Product[] = [
     image: "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop",
     rating: {
       rate: 4.8,
-      count: 120
+      count: 120 
     } 
   },
   {
